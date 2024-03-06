@@ -1,0 +1,12 @@
+export const ADD_USER = 'CREATE_USER';
+export const DELETE_USERS = 'DELETE_USER';
+export const EDIT_USER = 'EDIT_USER';
+export const SET_USERS = 'SET_USERS';
+export const ADD_TASK = 'CREATE_TASK';
+export const DELETE_TASKS = 'DELETE_TASK';
+export const EDIT_TASK = 'EDIT_TASK';
+export const SET_TASKS = 'SET_TASKS';
+export const SET_ALL_TASKS = 'SET_ALL_TASKS';
+export const BASE_URL = 'http://localhost:5000/api';
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
